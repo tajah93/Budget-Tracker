@@ -2,7 +2,7 @@
 
 ## Overview ##
 
-This application allows the user to add and subtract funds from their budget both on and offline. It also updates and populates the tracker when brough back online after being offline. 
+This application allows the user to add and subtract funds from their budget both on and offline. It also updates and populates the tracker when brought back online after being offline. 
 
 ## Installation ##
 
