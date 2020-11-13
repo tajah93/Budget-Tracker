@@ -18,13 +18,15 @@ Local Usage:
 
 [Live Link](https://shielded-sands-56095.herokuapp.com/)
 
+**Offline**
+
+![ScreenShot](https://raw.github.com/tajah93/Budget-Tracker/main/Images/budget_offline.png)
+
+
 **Online**
 
 ![ScreenShot](https://raw.github.com/tajah93/Budget-Tracker/main/Images/budget_online.png)
 
-**Offline**
-
-![ScreenShot](https://raw.github.com/tajah93/Budget-Tracker/main/Images/budget_offline.png)
 
 **Desktop**
 
